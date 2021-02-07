@@ -3,6 +3,7 @@ description: An uncanny notion
 remote_theme: UncannyMisc/cayman
 
 collections:
-  Tutorials:
+  tutorials:
     output: true
     permalink: /PlasmaTutorials/:title
+    collections_dir: tutorials
