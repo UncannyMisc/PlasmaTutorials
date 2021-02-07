@@ -13,7 +13,7 @@ Documentation about various aspect of the engine can be found [Here](https://git
     <div class="grid-item">
 		{% if startrow == true%}
 			<div style = "width: 100%; float:left;">
-				<a href="{{ post.url }}" title = "{{ post.title }}">
+				<a href="/PlasmaTutorials{{ post.url }}" title = "{{ post.title }}">
 					<div style = "float:left; background-image:url({{ post.post_image }});">{{ post.title }}</div>
 				</a>
 				<div style = "width: -webkit-fill-available;">
