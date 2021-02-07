@@ -3,6 +3,6 @@ description: An uncanny notion
 remote_theme: UncannyMisc/cayman
 
 collections:
-  posts:
+  Tutorials:
     output: true
     permalink: /PlasmaTutorials/:title
