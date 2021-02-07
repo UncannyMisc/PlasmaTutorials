@@ -8,7 +8,7 @@ Documentation about various aspect of the engine can be found [Here](https://git
 
 <div class="grid">
   {% assign startrow = true %}
-  {% assign cat = site.categories["tutorials"]%}
+  {% assign cat = site.tutorials%}
   {% for post in cat %}
     <div class="grid-item">
 		{% if startrow == true%}
