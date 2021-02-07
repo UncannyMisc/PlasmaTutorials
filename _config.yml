@@ -7,4 +7,4 @@ collections:
     remote_theme: UncannyMisc/cayman
     output: true
     permalink: /PlasmaTutorials/:title
-    collections_dir: /PlasmaTutorials/tutorials
+    relative_directory: /PlasmaTutorials/tutorials
