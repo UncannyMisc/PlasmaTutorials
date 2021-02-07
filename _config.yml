@@ -1,4 +1,8 @@
 title: Miscellaneous Motifs
 description: An uncanny notion
 remote_theme: UncannyMisc/cayman
-permalink: /PlasmaTutorials/:title
+
+collections:
+  posts:
+    output: true
+    permalink: /PlasmaTutorials/:title
