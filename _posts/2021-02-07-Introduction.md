@@ -4,7 +4,7 @@ is_guide: True
 post_image: /assets/avatar.png
 title: Getting Started
 summary: Learning the User Interface and starting Coding
-permalink: /Introduction/
+permalink: /PlasmaTutorials/Introduction/
 ---
 
 Welcome to the first Tutorial of the Plasma Engine series, this Tutorial assumes you have already installed the engine launcher, if you havent you can get the latest release [Here](https://github.com/PlasmaEngine/PlasmaEngine/releases/).
