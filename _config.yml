@@ -1,6 +1,7 @@
 title: Miscellaneous Motifs
 description: An uncanny notion
 remote_theme: UncannyMisc/cayman
+base_url: uncannymisc.github.io/PlasmaTutorials/
 
 collections:
   tutorials:
