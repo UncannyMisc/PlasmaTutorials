@@ -6,4 +6,4 @@ collections:
   tutorials:
     output: true
     permalink: /PlasmaTutorials/:title
-    collections_dir: tutorials
+    collections_dir: /PlasmaTutorials/tutorials
