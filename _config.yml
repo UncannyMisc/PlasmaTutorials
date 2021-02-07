@@ -5,6 +5,7 @@ baseurl: /PlasmaTutorials
 
 collections:
   tutorials:
+    category:PlasmaTutorials
     remote_theme: UncannyMisc/cayman
     output: true
     permalink: /:categories/:title
