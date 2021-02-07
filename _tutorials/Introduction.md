@@ -1,4 +1,5 @@
 ---
+layout: default
 is_main: True
 is_guide: True
 post_image: /assets/avatar.png
