@@ -6,7 +6,7 @@ url: https://uncannymisc.github.io/
 
 collections:
   tutorials:
-    layout: default
+    layout: post
     output: true
     permalink: /:title
     relative_directory: /PlasmaTutorials/tutorials
