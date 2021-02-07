@@ -3,7 +3,8 @@ layout: default
 title: Plasma Tutorials
 ---
 
-Welcome to the main page for Tutorials about (Plasma Engine)[https://github.com/PlasmaEngine/PlasmaEngine], a custom engine built from the ground up with a variety of features. Documentation about various aspect of the engine can be found (Here)[https://github.com/PlasmaEngine/PlasmaDocs].
+Welcome to the main page for Tutorials about [Plasma Engine](https://github.com/PlasmaEngine/PlasmaEngine), a custom engine built from the ground up with a variety of features. 
+Documentation about various aspect of the engine can be found [Here](https://github.com/PlasmaEngine/PlasmaDocs).
 
 <div class="grid">
   {% assign startrow = true %}
